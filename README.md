@@ -21,7 +21,7 @@ GitScout ek modern Android application hai jo GitHub users ko search karne aur u
 ---
 
 ## 📸 Screenshots
-*(Yahan aap apni app ki images upload karke link laga sakte hain)*
+
 
 ## 🚀 Installation
 1. Clone the repository:
